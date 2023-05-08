@@ -1,0 +1,600 @@
+num1 sin : -0.611117
+num1 div : -0.185697
+num2 cos : -0.739147
+vector_length : 0.762116
+num1 : -0.243659
+num2 : -0.969861
+num1 sin : -0.241255
+num1 div : 0.248752
+num2 cos : -0.739147
+vector_length : 0.779882
+num1 : 0.318962
+num2 : -0.947768
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1
+num1 sin : 0
+num1 div : -0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : -0
+num2 : -1
+num1 sin : -0
+num1 div : 0
+num2 cos : -0.739147
+vector_length : 0.739147
+num1 : 0
+num2 : -1

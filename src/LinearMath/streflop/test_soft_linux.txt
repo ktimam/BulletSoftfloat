@@ -1,0 +1,600 @@
+num1 sin : -0.611115
+num1 div : -0.185696
+num2 cos : 0.774131
+vector_length : 0.796092
+num1 : -0.233259
+num2 : 0.972415
+num1 sin : -0.23115
+num1 div : -0.237707
+num2 cos : 0.774131
+vector_length : 0.809805
+num1 : -0.293536
+num2 : 0.955948
+num1 sin : -0.289339
+num1 div : -0.302672
+num2 cos : 0.774131
+vector_length : 0.831198
+num1 : -0.36414
+num2 : 0.931344
+num1 sin : -0.356146
+num1 div : -0.3824
+num2 cos : 0.774131
+vector_length : 0.863428
+num1 : -0.442885
+num2 : 0.896578
+num1 sin : -0.428548
+num1 div : -0.477982
+num2 cos : 0.774131
+vector_length : 0.909805
+num1 : -0.525367
+num2 : 0.850876
+num1 sin : -0.501531
+num1 div : -0.589429
+num2 cos : 0.774131
+vector_length : 0.972988
+num1 : -0.605793
+num2 : 0.795623
+num1 sin : -0.569414
+num1 div : -0.715683
+num2 cos : 0.774131
+vector_length : 1.05427
+num1 : -0.678843
+num2 : 0.734283
+num1 sin : -0.627893
+num1 div : -0.855111
+num2 cos : 0.774131
+vector_length : 1.15347
+num1 : -0.741338
+num2 : 0.671132
+num1 sin : -0.675275
+num1 div : -1.00617
+num2 cos : 0.774131
+vector_length : 1.26951
+num1 : -0.792566
+num2 : 0.609786
+num1 sin : -0.712157
+num1 div : -1.16788
+num2 cos : 0.774131
+vector_length : 1.40115
+num1 : -0.833515
+num2 : 0.552497
+num1 sin : -0.740299
+num1 div : -1.33992
+num2 cos : 0.774131
+vector_length : 1.54747
+num1 : -0.865877
+num2 : 0.500257
+num1 sin : -0.761664
+num1 div : -1.52254
+num2 cos : 0.774131
+vector_length : 1.70805
+num1 : -0.891396
+num2 : 0.453226
+num1 sin : -0.777949
+num1 div : -1.71647
+num2 cos : 0.774131
+vector_length : 1.88296
+num1 : -0.911579
+num2 : 0.411124
+num1 sin : -0.790472
+num1 div : -1.92271
+num2 cos : 0.774131
+vector_length : 2.0727
+num1 : -0.927635
+num2 : 0.373489
+num1 sin : -0.800204
+num1 div : -2.14251
+num2 cos : 0.774131
+vector_length : 2.27808
+num1 : -0.940491
+num2 : 0.339818
+num1 sin : -0.807848
+num1 div : -2.3773
+num2 cos : 0.774131
+vector_length : 2.50016
+num1 : -0.950856
+num2 : 0.309632
+num1 sin : -0.813913
+num1 div : -2.62864
+num2 cos : 0.774131
+vector_length : 2.74026
+num1 : -0.959267
+num2 : 0.282502
+num1 sin : -0.818771
+num1 div : -2.89828
+num2 cos : 0.774131
+vector_length : 2.99988
+num1 : -0.966131
+num2 : 0.258054
+num1 sin : -0.822692
+num1 div : -3.18806
+num2 cos : 0.774131
+vector_length : 3.28071
+num1 : -0.971762
+num2 : 0.235965
+num1 sin : -0.82588
+num1 div : -3.50002
+num2 cos : 0.774131
+vector_length : 3.5846
+num1 : -0.976402
+num2 : 0.21596
+num1 sin : -0.828488
+num1 div : -3.8363
+num2 cos : 0.774131
+vector_length : 3.91363
+num1 : -0.980242
+num2 : 0.197804
+num1 sin : -0.830632
+num1 div : -4.19927
+num2 cos : 0.774131
+vector_length : 4.27003
+num1 : -0.983429
+num2 : 0.181294
+num1 sin : -0.832402
+num1 div : -4.59145
+num2 cos : 0.774131
+vector_length : 4.65625
+num1 : -0.986083
+num2 : 0.166256
+num1 sin : -0.83387
+num1 div : -5.01557
+num2 cos : 0.774131
+vector_length : 5.07496
+num1 : -0.988297
+num2 : 0.152539
+num1 sin : -0.835091
+num1 div : -5.47459
+num2 cos : 0.774131
+vector_length : 5.52905
+num1 : -0.99015
+num2 : 0.140012
+num1 sin : -0.836108
+num1 div : -5.97171
+num2 cos : 0.774131
+vector_length : 6.02167
+num1 : -0.991702
+num2 : 0.128557
+num1 sin : -0.836959
+num1 div : -6.51039
+num2 cos : 0.774131
+vector_length : 6.55625
+num1 : -0.993005
+num2 : 0.118075
+num1 sin : -0.837671
+num1 div : -7.09438
+num2 cos : 0.774131
+vector_length : 7.13649
+num1 : -0.994099
+num2 : 0.108475
+num1 sin : -0.838268
+num1 div : -7.72775
+num2 cos : 0.774131
+vector_length : 7.76643
+num1 : -0.99502
+num2 : 0.0996766
+num1 sin : -0.83877
+num1 div : -8.41491
+num2 cos : 0.774131
+vector_length : 8.45044
+num1 : -0.995795
+num2 : 0.0916084
+num1 sin : -0.839192
+num1 div : -9.16064
+num2 cos : 0.774131
+vector_length : 9.19329
+num1 : -0.996448
+num2 : 0.0842061
+num1 sin : -0.839547
+num1 div : -9.97014
+num2 cos : 0.774131
+vector_length : 10.0002
+num1 : -0.996999
+num2 : 0.0774119
+num1 sin : -0.839846
+num1 div : -10.849
+num2 cos : 0.774131
+vector_length : 10.8766
+num1 : -0.997464
+num2 : 0.0711738
+num1 sin : -0.840098
+num1 div : -11.8035
+num2 cos : 0.774131
+vector_length : 11.8288
+num1 : -0.997856
+num2 : 0.0654444
+num1 sin : -0.840311
+num1 div : -12.8401
+num2 cos : 0.774131
+vector_length : 12.8634
+num1 : -0.998188
+num2 : 0.060181
+num1 sin : -0.84049
+num1 div : -13.966
+num2 cos : 0.774131
+vector_length : 13.9875
+num1 : -0.998467
+num2 : 0.0553446
+num1 sin : -0.840642
+num1 div : -15.1892
+num2 cos : 0.774131
+vector_length : 15.2089
+num1 : -0.998704
+num2 : 0.0508997
+num1 sin : -0.84077
+num1 div : -16.5182
+num2 cos : 0.774131
+vector_length : 16.5363
+num1 : -0.998904
+num2 : 0.0468141
+num1 sin : -0.840878
+num1 div : -17.9621
+num2 cos : 0.774131
+vector_length : 17.9788
+num1 : -0.999073
+num2 : 0.0430581
+num1 sin : -0.84097
+num1 div : -19.531
+num2 cos : 0.774131
+vector_length : 19.5464
+num1 : -0.999215
+num2 : 0.0396048
+num1 sin : -0.841047
+num1 div : -21.236
+num2 cos : 0.774131
+vector_length : 21.2501
+num1 : -0.999336
+num2 : 0.0364296
+num1 sin : -0.841112
+num1 div : -23.0887
+num2 cos : 0.774131
+vector_length : 23.1017
+num1 : -0.999438
+num2 : 0.0335097
+num1 sin : -0.841167
+num1 div : -25.1022
+num2 cos : 0.774131
+vector_length : 25.1141
+num1 : -0.999525
+num2 : 0.0308245
+num1 sin : -0.841214
+num1 div : -27.2904
+num2 cos : 0.774131
+vector_length : 27.3014
+num1 : -0.999598
+num2 : 0.028355
+num1 sin : -0.841254
+num1 div : -29.6686
+num2 cos : 0.774131
+vector_length : 29.6787
+num1 : -0.99966
+num2 : 0.0260837
+num1 sin : -0.841287
+num1 div : -32.2533
+num2 cos : 0.774131
+vector_length : 32.2626
+num1 : -0.999712
+num2 : 0.0239947
+num1 sin : -0.841315
+num1 div : -35.0626
+num2 cos : 0.774131
+vector_length : 35.0711
+num1 : -0.999756
+num2 : 0.0220732
+num1 sin : -0.841339
+num1 div : -38.1159
+num2 cos : 0.774131
+vector_length : 38.1238
+num1 : -0.999794
+num2 : 0.0203057
+num1 sin : -0.84136
+num1 div : -41.4346
+num2 cos : 0.774131
+vector_length : 41.4418
+num1 : -0.999825
+num2 : 0.01868
+num1 sin : -0.841377
+num1 div : -45.0417
+num2 cos : 0.774131
+vector_length : 45.0483
+num1 : -0.999852
+num2 : 0.0171845
+num1 sin : -0.841391
+num1 div : -48.9623
+num2 cos : 0.774131
+vector_length : 48.9685
+num1 : -0.999875
+num2 : 0.0158088
+num1 sin : -0.841403
+num1 div : -53.2238
+num2 cos : 0.774131
+vector_length : 53.2295
+num1 : -0.999894
+num2 : 0.0145433
+num1 sin : -0.841414
+num1 div : -57.8558
+num2 cos : 0.774131
+vector_length : 57.861
+num1 : -0.99991
+num2 : 0.0133792
+num1 sin : -0.841423
+num1 div : -62.8906
+num2 cos : 0.774131
+vector_length : 62.8953
+num1 : -0.999924
+num2 : 0.0123082
+num1 sin : -0.84143
+num1 div : -68.3631
+num2 cos : 0.774131
+vector_length : 68.3675
+num1 : -0.999936
+num2 : 0.0113231
+num1 sin : -0.841436
+num1 div : -74.3116
+num2 cos : 0.774131
+vector_length : 74.3156
+num1 : -0.999946
+num2 : 0.0104168
+num1 sin : -0.841442
+num1 div : -80.7773
+num2 cos : 0.774131
+vector_length : 80.7811
+num1 : -0.999954
+num2 : 0.00958308
+num1 sin : -0.841446
+num1 div : -87.8054
+num2 cos : 0.774131
+vector_length : 87.8088
+num1 : -0.999961
+num2 : 0.0088161
+num1 sin : -0.84145
+num1 div : -95.4447
+num2 cos : 0.774131
+vector_length : 95.4479
+num1 : -0.999967
+num2 : 0.00811051
+num1 sin : -0.841453
+num1 div : -103.748
+num2 cos : 0.774131
+vector_length : 103.751
+num1 : -0.999972
+num2 : 0.00746141
+num1 sin : -0.841456
+num1 div : -112.774
+num2 cos : 0.774131
+vector_length : 112.777
+num1 : -0.999976
+num2 : 0.00686426
+num1 sin : -0.841458
+num1 div : -122.585
+num2 cos : 0.774131
+vector_length : 122.588
+num1 : -0.99998
+num2 : 0.00631491
+num1 sin : -0.84146
+num1 div : -133.25
+num2 cos : 0.774131
+vector_length : 133.252
+num1 : -0.999983
+num2 : 0.00580953
+num1 sin : -0.841462
+num1 div : -144.842
+num2 cos : 0.774131
+vector_length : 144.844
+num1 : -0.999986
+num2 : 0.00534459
+num1 sin : -0.841463
+num1 div : -157.442
+num2 cos : 0.774131
+vector_length : 157.444
+num1 : -0.999988
+num2 : 0.00491687
+num1 sin : -0.841464
+num1 div : -171.138
+num2 cos : 0.774131
+vector_length : 171.14
+num1 : -0.99999
+num2 : 0.00452338
+num1 sin : -0.841465
+num1 div : -186.026
+num2 cos : 0.774131
+vector_length : 186.027
+num1 : -0.999991
+num2 : 0.00416138
+num1 sin : -0.841466
+num1 div : -202.208
+num2 cos : 0.774131
+vector_length : 202.21
+num1 : -0.999993
+num2 : 0.00382836
+num1 sin : -0.841467
+num1 div : -219.799
+num2 cos : 0.774131
+vector_length : 219.8
+num1 : -0.999994
+num2 : 0.00352198
+num1 sin : -0.841468
+num1 div : -238.919
+num2 cos : 0.774131
+vector_length : 238.92
+num1 : -0.999995
+num2 : 0.00324013
+num1 sin : -0.841468
+num1 div : -259.702
+num2 cos : 0.774131
+vector_length : 259.703
+num1 : -0.999996
+num2 : 0.00298083
+num1 sin : -0.841469
+num1 div : -282.294
+num2 cos : 0.774131
+vector_length : 282.295
+num1 : -0.999996
+num2 : 0.00274228
+num1 sin : -0.841469
+num1 div : -306.85
+num2 cos : 0.774131
+vector_length : 306.851
+num1 : -0.999997
+num2 : 0.00252282
+num1 sin : -0.841469
+num1 div : -333.543
+num2 cos : 0.774131
+vector_length : 333.543
+num1 : -0.999997
+num2 : 0.00232093
+num1 sin : -0.84147
+num1 div : -362.557
+num2 cos : 0.774131
+vector_length : 362.558
+num1 : -0.999998
+num2 : 0.00213519
+num1 sin : -0.84147
+num1 div : -394.095
+num2 cos : 0.774131
+vector_length : 394.096
+num1 : -0.999998
+num2 : 0.00196432
+num1 sin : -0.84147
+num1 div : -428.377
+num2 cos : 0.774131
+vector_length : 428.378
+num1 : -0.999998
+num2 : 0.00180712
+num1 sin : -0.84147
+num1 div : -465.641
+num2 cos : 0.774131
+vector_length : 465.641
+num1 : -0.999999
+num2 : 0.00166251
+num1 sin : -0.84147
+num1 div : -506.146
+num2 cos : 0.774131
+vector_length : 506.146
+num1 : -0.999999
+num2 : 0.00152946
+num1 sin : -0.84147
+num1 div : -550.174
+num2 cos : 0.774131
+vector_length : 550.175
+num1 : -0.999999
+num2 : 0.00140706
+num1 sin : -0.84147
+num1 div : -598.033
+num2 cos : 0.774131
+vector_length : 598.034
+num1 : -0.999999
+num2 : 0.00129446
+num1 sin : -0.841471
+num1 div : -650.055
+num2 cos : 0.774131
+vector_length : 650.055
+num1 : -0.999999
+num2 : 0.00119087
+num1 sin : -0.841471
+num1 div : -706.602
+num2 cos : 0.774131
+vector_length : 706.602
+num1 : -0.999999
+num2 : 0.00109557
+num1 sin : -0.841471
+num1 div : -768.067
+num2 cos : 0.774131
+vector_length : 768.068
+num1 : -0.999999
+num2 : 0.00100789
+num1 sin : -0.841471
+num1 div : -834.88
+num2 cos : 0.774131
+vector_length : 834.88
+num1 : -1
+num2 : 0.000927236
+num1 sin : -0.841471
+num1 div : -907.504
+num2 cos : 0.774131
+vector_length : 907.504
+num1 : -1
+num2 : 0.000853033
+num1 sin : -0.841471
+num1 div : -986.446
+num2 cos : 0.774131
+vector_length : 986.446
+num1 : -1
+num2 : 0.000784768
+num1 sin : -0.841471
+num1 div : -1072.25
+num2 cos : 0.774131
+vector_length : 1072.25
+num1 : -1
+num2 : 0.000721966
+num1 sin : -0.841471
+num1 div : -1165.53
+num2 cos : 0.774131
+vector_length : 1165.53
+num1 : -1
+num2 : 0.000664189
+num1 sin : -0.841471
+num1 div : -1266.91
+num2 cos : 0.774131
+vector_length : 1266.91
+num1 : -1
+num2 : 0.000611037
+num1 sin : -0.841471
+num1 div : -1377.12
+num2 cos : 0.774131
+vector_length : 1377.12
+num1 : -1
+num2 : 0.000562138
+num1 sin : -0.841471
+num1 div : -1496.91
+num2 cos : 0.774131
+vector_length : 1496.91
+num1 : -1
+num2 : 0.000517152
+num1 sin : -0.841471
+num1 div : -1627.13
+num2 cos : 0.774131
+vector_length : 1627.13
+num1 : -1
+num2 : 0.000475766
+num1 sin : -0.841471
+num1 div : -1768.66
+num2 cos : 0.774131
+vector_length : 1768.66
+num1 : -1
+num2 : 0.000437692
+num1 sin : -0.841471
+num1 div : -1922.52
+num2 cos : 0.774131
+vector_length : 1922.52
+num1 : -1
+num2 : 0.000402666
+num1 sin : -0.841471
+num1 div : -2089.75
+num2 cos : 0.774131
+vector_length : 2089.75
+num1 : -1
+num2 : 0.000370442
+num1 sin : -0.841471
+num1 div : -2271.53
+num2 cos : 0.774131
+vector_length : 2271.53
+num1 : -1
+num2 : 0.000340797
+num1 sin : -0.841471
+num1 div : -2469.13
+num2 cos : 0.774131
+vector_length : 2469.13
+num1 : -1
+num2 : 0.000313524
+num1 sin : -0.841471
+num1 div : -2683.91
+num2 cos : 0.774131
+vector_length : 2683.91
+num1 : -1
+num2 : 0.000288434
+num1 sin : -0.841471
+num1 div : -2917.38
+num2 cos : 0.774131
+vector_length : 2917.38
+num1 : -1
+num2 : 0.000265351
