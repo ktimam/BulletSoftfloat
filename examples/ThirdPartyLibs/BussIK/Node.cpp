@@ -20,7 +20,7 @@ subject to the following restrictions:
 *
 */
 
-#include <math.h>
+#include <cmath>
 
 #include "LinearR3.h"
 #include "MathMisc.h"

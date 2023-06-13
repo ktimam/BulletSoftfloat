@@ -10,7 +10,7 @@
 #include "Gwen/Utility.h"
 #include "Gwen/Platform.h"
 
-#include <math.h>
+//#include <math.h>
 #include <cmath>
 
 using namespace Gwen;

@@ -4,7 +4,7 @@
 #include "Gwen/Font.h"
 #include "Gwen/Texture.h"
 
-#include <math.h>
+#include <cmath>
 #ifdef B3_USE_GLFW
 #include "glad/gl.h"
 #include <GLFW/glfw3.h>

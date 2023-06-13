@@ -14,7 +14,7 @@ struct sth_stash;
 #include "TwFonts.h"
 static float extraSpacing = 0.;  //6f;
 #include <assert.h>
-#include <math.h>
+#include <cmath>
 
 template <class T>
 inline void MyClamp(T& a, const T& lb, const T& ub)

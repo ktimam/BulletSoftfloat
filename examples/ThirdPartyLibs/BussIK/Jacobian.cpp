@@ -25,7 +25,7 @@ subject to the following restrictions:
 */
 
 #include <stdlib.h>
-#include <math.h>
+#include <cmath>
 #include <assert.h>
 #include <iostream>
 using namespace std;

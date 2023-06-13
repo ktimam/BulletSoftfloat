@@ -4,7 +4,7 @@
 // Thanks to Alexandr Rakhmanin <rakhmanin (at) gmail.com>
 // public domain
 //
-#include <math.h>
+#include <cmath>
 
 #include "poly34.h"  // solution of cubic and quartic equation
 #define TwoPi 6.28318530717958648

@@ -17,7 +17,7 @@
 #include "vhacdVolume.h"
 #include <algorithm>
 #include <float.h>
-#include <math.h>
+#include <cmath>
 #include <queue>
 #include <string.h>
 

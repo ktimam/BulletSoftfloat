@@ -38,7 +38,7 @@
 
 #pragma warning(disable : 4786)
 
-#include <math.h>
+#include <cmath>
 #include <float.h>
 #include <vector>
 

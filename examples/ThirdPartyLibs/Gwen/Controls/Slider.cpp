@@ -4,7 +4,7 @@
 	See license in Gwen.h
 */
 
-#include <math.h>
+//#include <math.h>
 #include <cmath>
 #include "Gwen/Controls/Slider.h"
 

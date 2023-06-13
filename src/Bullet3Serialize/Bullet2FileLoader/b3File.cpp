@@ -16,7 +16,7 @@ subject to the following restrictions:
 #include "b3Common.h"
 #include "b3Chunk.h"
 #include "b3DNA.h"
-#include <math.h>
+#include <cmath>
 #include <string.h>
 #include <stdlib.h>
 #include "b3Defines.h"

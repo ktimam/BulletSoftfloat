@@ -3,7 +3,7 @@
 #ifndef STBI_HEADER_FILE_ONLY
 
 #ifndef STBI_NO_HDR
-#include <math.h>    // ldexp
+#include <cmath>    // ldexp
 #include <string.h>  // strcmp, strtok
 #endif
 

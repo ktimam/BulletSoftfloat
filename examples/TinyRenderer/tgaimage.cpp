@@ -2,7 +2,7 @@
 #include <fstream>
 #include <string.h>
 #include <time.h>
-#include <math.h>
+#include <cmath>
 #include "tgaimage.h"
 
 TGAImage::TGAImage() : data(NULL), width(0), height(0), bytespp(0) {}

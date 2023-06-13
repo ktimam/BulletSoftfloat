@@ -10,7 +10,7 @@
 
 #include "btReducedVector.h"
 #include "btAlignedObjectArray.h"
-//#include <iostream>
+#include <iostream>
 //#include <cmath>
 
 //#include "streflop.h"  

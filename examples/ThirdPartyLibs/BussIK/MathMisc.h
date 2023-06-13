@@ -23,7 +23,7 @@ subject to the following restrictions:
 #ifndef MATH_MISC_H
 #define MATH_MISC_H
 
-#include <math.h>
+#include <cmath>
 
 //
 // Commonly used constants

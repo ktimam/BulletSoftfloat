@@ -5,7 +5,7 @@
 */
 
 #include "Gwen/Anim.h"
-#include <math.h>
+//#include <math.h>
 #include <cmath>
 #include "Gwen/Utility.h"
 

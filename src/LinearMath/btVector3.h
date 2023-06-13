@@ -126,6 +126,10 @@ public:
 	/**@brief No initialization constructor */
 	SIMD_FORCE_INLINE btVector3()
 	{
+		m_floats[0] = btScalar(0.f);
+		m_floats[1] = btScalar(0.f);
+		m_floats[2] = btScalar(0.f);
+		m_floats[3] = btScalar(0.f);
 	}
 
 	/**@brief Constructor from scalars
@@ -149,6 +153,10 @@ public:
 	SIMD_FORCE_INLINE btVector3(const btScalar& _x, const btScalar& _y, const btScalar& _z)
 	{
 		m_floats[0] = _x;
+		/*if (isnan(getXFloat()))
+		{
+			printf("NAN Error!");
+		}*/
 		m_floats[1] = _y;
 		m_floats[2] = _z;
 		m_floats[3] = btScalar(0.f);
@@ -187,6 +195,10 @@ public:
 		mVec128 = vaddq_f32(mVec128, v.mVec128);
 #else
 		m_floats[0] += v.m_floats[0];
+		/*if (isnan(getXFloat()))
+		{
+			printf("NAN Error!");
+		}*/
 		m_floats[1] += v.m_floats[1];
 		m_floats[2] += v.m_floats[2];
 #endif
@@ -203,6 +215,10 @@ public:
 		mVec128 = vsubq_f32(mVec128, v.mVec128);
 #else
 		m_floats[0] -= v.m_floats[0];
+		/*if (isnan(getXFloat()))
+		{
+			printf("NAN Error!");
+		}*/
 		m_floats[1] -= v.m_floats[1];
 		m_floats[2] -= v.m_floats[2];
 #endif
@@ -222,6 +238,10 @@ public:
 		mVec128 = vmulq_n_f32(mVec128, s);
 #else
 		m_floats[0] *= s;
+		/*if (isnan(getXFloat()))
+		{
+			printf("NAN Error!");
+		}*/
 		m_floats[1] *= s;
 		m_floats[2] *= s;
 #endif
@@ -244,7 +264,12 @@ public:
 		
 		return *this;
 #else
-		return *this *= btScalar(1.0) / s;
+		*this *= btScalar(1.0) / s;
+		/*if (isnan(getXFloat()))
+		{
+			printf("NAN Error!");
+		}*/
+		return *this;// *= btScalar(1.0) / s;
 #endif
 	}
 
@@ -363,7 +388,12 @@ public:
 
 		return *this;
 #else
-		return *this /= length();
+		* this /= length();
+		/*if (isnan(getXFloat()))
+		{
+			printf("NAN Error!");
+		}*/
+		return *this;// /= length();
 #endif
 	}
 
@@ -583,6 +613,13 @@ public:
 #endif
 		return *this;
 	}
+
+	/**@brief Return the x value */
+	SIMD_FORCE_INLINE const float getXFloat() const { return (float)m_floats[0]; }
+	/**@brief Return the y value */
+	SIMD_FORCE_INLINE const float getYFloat() const { return (float)m_floats[1]; }
+	/**@brief Return the z value */
+	SIMD_FORCE_INLINE const float getZFloat() const { return (float)m_floats[2]; }
 
 	/**@brief Return the x value */
 	SIMD_FORCE_INLINE const btScalar& getX() const { return m_floats[0]; }

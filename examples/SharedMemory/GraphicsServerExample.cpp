@@ -14,6 +14,8 @@
 #include "../MultiThreading/b3ThreadSupportInterface.h"
 #include "../Utils/b3Clock.h"
 
+#include <cstdio>
+
 #ifdef BT_ENABLE_CLSOCKET
 
 #include "PassiveSocket.h"  // Include header for active socket object definition

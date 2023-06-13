@@ -40,7 +40,7 @@ subject to the following restrictions:
 #ifndef LINEAR_R2_H
 #define LINEAR_R2_H
 
-#include <math.h>
+#include <cmath>
 #include <assert.h>
 #include <iostream>
 #include "MathMisc.h"

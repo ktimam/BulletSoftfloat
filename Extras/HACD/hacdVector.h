@@ -15,7 +15,7 @@
 #pragma once
 #ifndef HACD_VECTOR_H
 #define HACD_VECTOR_H
-#include <math.h>
+#include <cmath>
 #include <iostream>
 #include "hacdVersion.h"
 

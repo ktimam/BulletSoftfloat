@@ -20,7 +20,7 @@ subject to the following restrictions:
 #pragma unmanaged
 #endif
 
-#include <math.h>
+#include <cmath>
 #include <stdlib.h>  //size_t for MSVC 6.0
 #include <float.h>
 

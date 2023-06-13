@@ -4,7 +4,7 @@
 #include <string.h>
 #include <assert.h>
 #include <float.h>
-#include <math.h>
+#include <cmath>
 
 /*----------------------------------------------------------------------
 		Copyright (c) 2004 Open Dynamics Framework Group

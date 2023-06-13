@@ -38,7 +38,7 @@ subject to the following restrictions:
 #ifndef LINEAR_R4_H
 #define LINEAR_R4_H
 
-#include <math.h>
+#include <cmath>
 #include <assert.h>
 #include <iostream>
 #include "LinearR3.h"

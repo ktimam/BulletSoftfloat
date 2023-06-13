@@ -30,7 +30,7 @@ subject to the following restrictions:
 #ifndef VECTOR_RN_H
 #define VECTOR_RN_H
 
-#include <math.h>
+#include <cmath>
 #include <assert.h>
 #include "LinearR3.h"
 

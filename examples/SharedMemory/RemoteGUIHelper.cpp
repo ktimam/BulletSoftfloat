@@ -14,6 +14,8 @@
 #include "Bullet3Common/b3AlignedObjectArray.h"
 #include "BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h"
 
+#include <cstdio>
+
 struct RemoteGUIHelperInternalData
 {
 	//	GUIHelperInterface* m_guiHelper;

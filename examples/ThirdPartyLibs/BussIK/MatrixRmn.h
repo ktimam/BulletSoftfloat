@@ -30,7 +30,7 @@ subject to the following restrictions:
 #ifndef MATRIX_RMN_H
 #define MATRIX_RMN_H
 
-#include <math.h>
+#include <cmath>
 #include <assert.h>
 #include "LinearR3.h"
 #include "VectorRn.h"

@@ -658,6 +658,11 @@ void btSequentialImpulseConstraintSolver::setupTorsionalFrictionConstraint(btSol
 		btScalar sum = (btScalar)0;
 		sum += iMJaA.dot(solverConstraint.m_relpos1CrossNormal);
 		sum += iMJaB.dot(solverConstraint.m_relpos2CrossNormal);
+		if (sum == 0)
+		{
+			//printf("NAN Error!");
+			return;
+		}
 		solverConstraint.m_jacDiagABInv = btScalar(1.) / sum;
 	}
 

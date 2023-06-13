@@ -65,6 +65,10 @@ public:
 	/**@brief Assignment Operator */
 	SIMD_FORCE_INLINE btTransform& operator=(const btTransform& other)
 	{
+		/*if (isnan(other.m_origin.getXFloat()))
+		{
+			printf("NAN Error!");
+		}*/
 		m_basis = other.m_basis;
 		m_origin = other.m_origin;
 		return *this;

@@ -13,6 +13,9 @@
 #include "RemoteGUIHelper.h"
 
 #include "Bullet3Common/b3Logging.h"
+
+#include <cstdlib>
+
 class InProcessPhysicsClientSharedMemoryMainThread : public PhysicsClientSharedMemory
 {
 	btInProcessExampleBrowserMainThreadInternalData* m_data;
